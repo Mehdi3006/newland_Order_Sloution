@@ -1,0 +1,8 @@
+{
+  "name": "NEWLAND Order Sloution V106",
+  "description": "Enterprise trading ERP with full purchase/sales invoicing, universal product specs & CBM sync, order delivery chain tracking, and zero-discrepancy warehouse cardex",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
